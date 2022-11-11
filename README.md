@@ -1,6 +1,6 @@
 # StudyTimerApp
 App for study and concentration based on the Pomodoro technique.
-Used packages - React Circular Progressbar - for the timer,,,, react-slider- for the timer settings,,, react-howler -for the sounds!
+Used packages - React Circular Progressbar - for the timer,,,, react-slider- for the timer's settings,,, react-howler -for the sounds!
 The inspiration for the app is from freecodeCamp courses.
 
 In the project directory my-app, you can run $ npm install, then
