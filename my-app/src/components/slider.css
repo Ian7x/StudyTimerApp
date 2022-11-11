@@ -1,0 +1,14 @@
+.slider {
+  height: 40px;
+  border: 6px solid grey;
+}
+.thumb {
+  background-color: var(--green);
+  cursor: pointer;
+  width: 15px;
+  height: 40px;
+}
+
+.slider.red .thumb {
+  background-color: var(--red);
+}
